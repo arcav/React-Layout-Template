@@ -1,2 +1,2 @@
 # React-Layout-Template
-Created with CodeSandbox
+Implementacion de Materialize-css en React , maquetacion basica con responsive-desing , sidebar a modo ejemplo para un sitio sencillo
