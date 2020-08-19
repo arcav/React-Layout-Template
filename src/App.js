@@ -1,11 +1,20 @@
 import React from "react";
-import "./styles.css";
+import Layout from './Components/Layout/Index'
+import Routes from './Routes/Routes'
+import './index.css';
 
-export default function App() {
+
+
+const App = () => {
   return (
-    <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
-    </div>
+    <>
+      <Layout>
+        <main>
+          <Routes />
+        </main>
+      </Layout>
+    </>
   );
-}
+};
+
+export default App;

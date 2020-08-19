@@ -8,9 +8,11 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "@types/materialize-css": "^1.0.8",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {

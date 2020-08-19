@@ -1,0 +1,30 @@
+#root {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.sidenav .user-view .background {
+    margin-top: 3rem;
+}
+
+.user-view {
+    height: 20rem;
+}
+
+.sidenav .user-view .name {
+    font-weight: 900;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 2px
+}
+
+;
