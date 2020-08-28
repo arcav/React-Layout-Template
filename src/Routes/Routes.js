@@ -13,7 +13,7 @@ const Routes = () => {
                     <Route exact path="/About" component={About} />
                     <Route exact path="/Contact" component={Contact} />
                     <Route excat path="/NoMatch"component={NoMatch} /> 
-             <Switch/>
+             </Switch>
         </>
     );
 };
